@@ -1,6 +1,0 @@
-countdown-seconds: 30
-countdown-message: '&eLa partita inizia fra %t.'
-lobby:
-  x: 0.0
-  y: 100.0
-  z: 0.0
